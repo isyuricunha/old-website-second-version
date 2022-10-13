@@ -42,7 +42,7 @@ yarn run dev
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/isyuricunha/portfolio-v1/blob/master/LICENSE.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/isyuricunha/website/issues).
 
 ## Show your support
 
