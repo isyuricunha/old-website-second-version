@@ -23,24 +23,10 @@ export const Main: FC = () => {
               <br />
               <div className="ml-2 text-lg text-gray-500 font-normal">
                 <p className="">
-                  Sou um{" "}
-                  <a
-                    href="https://roadmap.sh/frontend"
-                    className="text-fuchsia-500"
-                  >
-                    Front-end Developer Junior
-                  </a>
-                  .{" "}
-                  {/* {new Date().getFullYear() - 2019} anos de experiência. */}
-                  E um simples estudante que gasta todo o seu tempo livre
-                  fazendo projetos{" "}
-                  <a
-                    href="https://en.wikipedia.org/wiki/Open_source"
-                    className="text-fuchsia-500"
-                  >
-                    Open-Source
-                  </a>
-                  .
+                  I'm a Front-end developer with over{" "}
+                  {new Date().getFullYear() - 2019} years of experience, and a
+                  student who spends most all of his free time doing open source
+                  projects/websites/softwares.
                 </p>
               </div>
             </div>
@@ -50,7 +36,7 @@ export const Main: FC = () => {
               href="mailto:isyuricunha@duck.com"
               className="px-8 p-3 rounded-full hover:bg-[#292929] transition bg-[#1f1f1f]"
             >
-              Contato
+              Contact
             </a>
             <a
               href="https://github.com/isyuricunha"
@@ -118,14 +104,14 @@ export const Main: FC = () => {
           <div className="md:w-2/3  text-gray-200">
             <p className="text-3xl font-semibold">Sobre mim</p>
             <p className="mt-4 md:w-11/12">
-              Trabalho com desenvolvimento desde 2019 (
-              {new Date().getFullYear() - 2019} anos), e gosto mais de
-              front-end.
+              I've been playing with development since 2019 (
+              {new Date().getFullYear() - 2019} years) and although I am a full
+              stack developer, I like front-end more.
             </p>
             <p className="mt-4 md:w-11/12">
-              Eu uso principalmente tecnologias baseadas em Node. À direita,
-              você pode ver algumas das minhas tecnologias favoritas, que também
-              são as que uso na maioria dos meus projetos.
+              I mainly use Node based technologies. On the right, you can see a
+              couple of my favourite technologies, which are also the ones I use
+              in most of my projects.
             </p>
           </div>
           <div className="justify-center md:w-1/2 flex grid grid-cols-2 gap-4 text-gray-200 font-medium md:mt-0 mt-5">
