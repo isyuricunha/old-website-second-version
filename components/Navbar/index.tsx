@@ -12,7 +12,7 @@ export const Navbar: FC = () => {
         </div>
         <div className="flex items-center text-gray-300">
           <Link href="/projetos">
-            <a className="mx-3">Projetos</a>
+            <a className="mx-3">Projects</a>
           </Link>
           {/* <a href="www.yuricunha.xyz" className="mr-3">
             Blog
@@ -21,7 +21,7 @@ export const Navbar: FC = () => {
             href="mailto:isyuricunha@duck.com"
             className="px-5 p-2 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]"
           >
-            Contato
+            Contact
           </a>
         </div>
       </div>

@@ -10,7 +10,7 @@ export const Popup: FC = () => {
           rel="noopener noreferrer"
           className="text-sm font-medium hover:opacity-75"
         >
-          Ei, que tal ver o meu blog?
+          Hey 👋, Check out my new blog!
         </a>
 
         <a

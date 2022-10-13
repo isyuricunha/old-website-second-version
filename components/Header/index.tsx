@@ -9,7 +9,7 @@ export const Header: FC<IProps> = function ({ title }) {
       <title>{title} | yuricunha.</title>
       <meta
         name="description"
-        content="Sou um desenvolvedor Front-end com mais de 3 anos de experiência, e um estudante que passa a maior parte de seu tempo livre fazendo projetos/sites/softwares open source."
+        content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."
       />
       <link rel="icon" href="/icon.png" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -17,7 +17,7 @@ export const Header: FC<IProps> = function ({ title }) {
       <meta name="title" content="isyuricunha" />
       <meta
         name="description"
-        content="Sou um desenvolvedor Front-end com mais de 3 anos de experiência, e um estudante que passa a maior parte de seu tempo livre fazendo projetos/sites/softwares open source."
+        content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."
       />
 
       <meta property="og:type" content="website" />
@@ -25,7 +25,7 @@ export const Header: FC<IProps> = function ({ title }) {
       <meta property="og:title" content="isyuricunha | yuri cunha" />
       <meta
         property="og:description"
-        content="Sou um desenvolvedor Front-end com mais de 3 anos de experiência, e um estudante que passa a maior parte de seu tempo livre fazendo projetos/sites/softwares open source."
+        content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."
       />
       <meta property="og:image" content="https://yuricunha.xyz/icon.png" />
       <meta property="theme-color" content="#d6cdf9" />
@@ -34,7 +34,7 @@ export const Header: FC<IProps> = function ({ title }) {
       <meta property="twitter:title" content="yuricunha.xyz" />
       <meta
         property="twitter:description"
-        content="Sou um desenvolvedor Front-end com mais de 3 anos de experiência, e um estudante que passa a maior parte de seu tempo livre fazendo projetos/sites/softwares open source."
+        content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."
       />
       <meta property="twitter:image" content="https://yuricunha.xyz/icon.png" />
       <meta property="twitter:domain" content="yuricunha.xyz" />

@@ -6,7 +6,7 @@ export const Footer: FC = () => {
       <div className="flex md:w-7/12 w-10/12 justify-between">
         <div className="flex items-center">
           <p className="flex text-md font-medium text-gray-400">
-            Feito por&nbsp;
+            Coded by&nbsp;
             <a
               href="https://github.com/isyuricunha"
               className="text-gray-100 hover:underline underline-violet-700 underline-1"
@@ -17,7 +17,7 @@ export const Footer: FC = () => {
         </div>
 
         <div className="flex items-center text-gray-300">
-          <p>com {"💙"}</p>
+          <p>with {"💙"}</p>
         </div>
       </div>
     </div>
