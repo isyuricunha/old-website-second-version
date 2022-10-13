@@ -11,7 +11,7 @@
 
 > My personal website.
 
-### 🏠 [Homepage](https://www.garotogordo.codes/)
+### 🏠 [Homepage](https://www.yuricunha.xyz/)
 
 ## Install
 
@@ -35,14 +35,14 @@ yarn run dev
 
 👤 **Yuri Cunha**
 
-* Website: https://garotogordo.codes/
-* Twitter: [@isyuricunha](https://twitter.com/isyuricunha)
-* Github: [@isyuricunha](https://github.com/isyuricunha)
-* LinkedIn: [@isyuricunha](https://linkedin.com/in/isyuricunha)
+- Website: https://yuricunha.xyz/
+- Twitter: [@isyuricunha](https://twitter.com/isyuricunha)
+- Github: [@isyuricunha](https://github.com/isyuricunha)
+- LinkedIn: [@isyuricunha](https://linkedin.com/in/isyuricunha)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/isyuricunha/portfolio-v1/blob/master/LICENSE.md). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/isyuricunha/portfolio-v1/blob/master/LICENSE.md).
 
 ## Show your support
 
@@ -57,5 +57,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Yuri Cunha](https://github.com/isyuricunha).<br />
 This project is [Yuri Cunha Personal License](https://github.com/isyuricunha/portfolio-v1/blob/master/LICENSE.md) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

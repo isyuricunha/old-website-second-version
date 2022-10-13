@@ -26,7 +26,7 @@ export const CONFIG = {
       what: "Um blog sobre tecnologia, desenvolvimento e inovação. Escrito por Yuri Cunha.",
       img: "/projects/fromthedesk.jpg",
       view: "https://github.com/isyuricunha/blog",
-      linkto: "https://www.blog.garotogordo.codes/",
+      linkto: "https://www.blog.yuricunha.xyz/",
     },
   ] as MAINPROJECTS[],
 
@@ -56,7 +56,7 @@ export const CONFIG = {
       what: "A ideia é montar um servidor aonde todos os desenvolvedores, estudantes e entusiastas possam trocar conhecimentos.",
       img: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0631c195727849.5e9e445700dcf.png",
       linkto: "pokedex",
-      view: "https://pokedex.garotogordo.codes/",
+      view: "https://pokedex.yuricunha.xyz/",
     },
   ] as SIDEPROJECTS[],
 };
