@@ -26,11 +26,11 @@ const index = function () {
                 </div>
                 <div className="p-4 py-6">
                   <div>
-                    <p className="font-bold text-xl">Cargo</p>
+                    <p className="font-bold text-xl">Role</p>
                     <p className="">{r.role}</p>
                   </div>
                   <div className="mt-4">
-                    <p className="font-bold text-xl">Sobre</p>
+                    <p className="font-bold text-xl">What</p>
                     <p className="">{r.what}</p>
                   </div>
                 </div>
@@ -73,7 +73,7 @@ const index = function () {
                           className="bg-gray-600 group-hover:bg-blue-600 p-2 px-8 rounded-md text-center transition"
                           href={r.view}
                         >
-                          Ver
+                          View
                         </a>
                       )}
                     </div>

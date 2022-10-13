@@ -38,7 +38,7 @@ const index = function () {
                   .{" "}
                   {/* {new Date().getFullYear() - 2019} anos de experiência. */}
                   E um simples estudante que gasta todo o seu tempo livre
-                  fazendo projetos{" "}
+                  fazendo projects{" "}
                   <a
                     href="https://en.wikipedia.org/wiki/Open_source"
                     className="text-fuchsia-500"
@@ -121,7 +121,7 @@ const index = function () {
       <div className="flex justify-center items-center w-screen mt-20 bg-[#1f1f1f] py-20">
         <div className="md:flex md:w-7/12 w-10/12 justify-between items-center">
           <div className="md:w-2/3  text-gray-200">
-            <p className="text-3xl font-semibold">Sobre mim</p>
+            <p className="text-3xl font-semibold">What mim</p>
             <p className="mt-4 md:w-11/12">
               Trabalho com desenvolvimento desde 2019 (
               {new Date().getFullYear() - 2019} anos), e gosto mais de
@@ -130,7 +130,7 @@ const index = function () {
             <p className="mt-4 md:w-11/12">
               Eu uso principalmente tecnologias baseadas em Node. À direita,
               você pode ver algumas das minhas tecnologias favoritas, que também
-              são as que uso na maioria dos meus projetos.
+              são as que uso na maioria dos meus projects.
             </p>
           </div>
           <div className="justify-center md:w-1/2 flex grid grid-cols-2 gap-4 text-gray-200 font-medium md:mt-0 mt-5">

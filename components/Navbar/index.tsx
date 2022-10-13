@@ -11,7 +11,7 @@ export const Navbar: FC = () => {
           </Link>
         </div>
         <div className="flex items-center text-gray-300">
-          <Link href="/projetos">
+          <Link href="/projects">
             <a className="mx-3">Projects</a>
           </Link>
           {/* <a href="www.yuricunha.xyz" className="mr-3">
