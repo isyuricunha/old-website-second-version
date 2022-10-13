@@ -47,7 +47,7 @@ export const Main: FC = () => {
           </div>
           <div className="flex md:pt-10 pt-4 text-gray-300">
             <a
-              href="mailto:isyuricunha@pm.me"
+              href="mailto:isyuricunha@duck.com"
               className="px-8 p-3 rounded-full hover:bg-[#292929] transition bg-[#1f1f1f]"
             >
               Contato
@@ -138,7 +138,7 @@ export const Main: FC = () => {
                     </svg>
                   </div>
                   <p className="mt-2">Vue</p>
-                  <p> {" "} </p>
+                  <p> </p>
                 </div>
               </div>
             </div>

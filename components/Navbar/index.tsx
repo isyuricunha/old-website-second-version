@@ -18,7 +18,7 @@ export const Navbar: FC = () => {
             Blog
           </a> */}
           <a
-            href="mailto:isyuricunha@pm.me"
+            href="mailto:isyuricunha@duck.com"
             className="px-5 p-2 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]"
           >
             Contato
