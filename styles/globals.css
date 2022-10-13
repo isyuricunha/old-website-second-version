@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@layer base {
+}
+* {
+  font-family: "Inter", sans-serif;
+}
+html {
+  @apply bg-bgMain;
+  -webkit-user-select: none;
+  user-select: none;
+}
+::-webkit-scrollbar {
+  display: none;
+  visibility: hidden;
+  opacity: 0;
+}
