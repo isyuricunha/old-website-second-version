@@ -59,4 +59,4 @@ This project is [Yuri Cunha Personal License](https://github.com/isyuricunha/por
 
 ---
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This readme was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
