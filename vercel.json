@@ -1,5 +1,8 @@
 {
   "github": {
-    "silent": true
-  }
+    "silent": true,
+    "autoAlias": false
+  },
+
+  "alias": ["yuricunha.xyz", "www.yuricunha.xyz", "1website.yuricunha.xyz"]
 }
