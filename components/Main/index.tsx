@@ -134,12 +134,12 @@ export const Main: FC = () => {
                 <div className="p-4 rounded-xl bg-[#252525]">
                   <div className="w-1/1 rounded-xl bg-white-500 p-4 bg-opacity-20">
                     <img
-                      src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-php-code-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"
+                      src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"
                       style={{ height: "48px", width: "48px", margin: "-10px" }}
                     />
                   </div>
-                  <p className="mt-2">PHP</p>
-                  <p>Since 2021</p>
+                  <p className="mt-2">TypeScript</p>
+                  <p>Since 2022</p>
                 </div>
               </div>
             </div>
