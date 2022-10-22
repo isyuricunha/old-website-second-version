@@ -15,7 +15,7 @@ export const Main: FC = () => {
             </div>
             <div className="">
               <p className="flex text-5xl font-bold text-gray-100">
-                Yuri Cunha
+                Yuri
               </p>
               <p className="ml-2 flex text-fuchsia-400 text-opacity-65 text-xl font-medium">
                 Database Administrator Junior
@@ -177,10 +177,3 @@ export const Main: FC = () => {
     </div>
   );
 };
-
-/*
-
-You can use this site for svgs. (use 32px)
-  https://icons8.com/
-
-*/
