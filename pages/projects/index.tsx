@@ -6,7 +6,7 @@ import { CONFIG } from "@lib/config";
 const index = function () {
   return (
     <div>
-      <Header title="Projetos" />
+      <Header title="Projects" />
       <Navbar />
       <div className="flex justify-center">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 w-9/12 mt-4">
