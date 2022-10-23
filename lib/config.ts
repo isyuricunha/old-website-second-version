@@ -78,6 +78,26 @@ export const CONFIG = {
       linkto: "old-website",
       view: "http://www.old-website.yuricunha.xyz/",
     },
+    {
+      title: "Massage Alternativa.",
+      description:
+        "Website for Massage Alternativa.",
+      role: "Coded by me.",
+      what: "Website for Massage Alternativa.",
+      img: "./projects/massage-alternativa.png",
+      linkto: "massage-alternativa",
+      view: "https://www.massagealternativa.com/",
+    },
+    {
+      title: "Solution System Automation.",
+      description:
+        "Website Solution System Automation.",
+      role: "Coded by me.",
+      what: "Website Solution System Automation.",
+      img: "./projects/ssautomation.png",
+      linkto: "solution-system-autmation",
+      view: "https://www.ssautomation.com.br/",
+    },
   ] as SIDEPROJECTS[],
 };
 
