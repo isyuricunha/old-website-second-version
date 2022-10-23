@@ -14,9 +14,7 @@ export const Main: FC = () => {
               />
             </div>
             <div className="">
-              <p className="flex text-5xl font-bold text-gray-100">
-                Yuri
-              </p>
+              <p className="flex text-5xl font-bold text-gray-100">Yuri</p>
               <p className="ml-2 flex text-fuchsia-400 text-opacity-65 text-xl font-medium">
                 Database Administrator Junior
               </p>
@@ -24,7 +22,7 @@ export const Main: FC = () => {
               <div className="ml-2 text-lg text-gray-500 font-normal">
                 <p className="">
                   I'm a Database Administrator with over{" "}
-                  {new Date().getFullYear() - 2019} years of experience, and a
+                  {new Date().getFullYear() - 2020} years of experience, and a
                   student who spends most all of his free time doing open source
                   projects/websites/softwares.
                 </p>
@@ -104,8 +102,8 @@ export const Main: FC = () => {
           <div className="md:w-2/3  text-gray-200">
             <p className="text-3xl font-semibold">About</p>
             <p className="mt-4 md:w-11/12">
-              I've been playing with development since 2019 (
-              {new Date().getFullYear() - 2019} years) and although I am a
+              I've been playing with development since 2020 (
+              {new Date().getFullYear() - 2020} years) and although I am a
               Database Administrator.
             </p>
             <p className="mt-4 md:w-11/12">
@@ -167,7 +165,7 @@ export const Main: FC = () => {
                     />
                   </div>
                   <p className="mt-2">SQL</p>
-                  <p>Since 2019</p>
+                  <p>Since 2020</p>
                 </div>
               </div>
             </div>

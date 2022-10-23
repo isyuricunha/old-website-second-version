@@ -36,7 +36,7 @@ const index = function () {
                     Front-end Developer Junior
                   </a>
                   .{" "}
-                  {/* {new Date().getFullYear() - 2019} anos de experiência. */}
+                  {/* {new Date().getFullYear() - 2020} anos de experiência. */}
                   E um simples estudante que gasta todo o seu tempo livre
                   fazendo projects{" "}
                   <a
@@ -123,8 +123,8 @@ const index = function () {
           <div className="md:w-2/3  text-gray-200">
             <p className="text-3xl font-semibold">What mim</p>
             <p className="mt-4 md:w-11/12">
-              Trabalho com desenvolvimento desde 2019 (
-              {new Date().getFullYear() - 2019} anos), e gosto mais de
+              Trabalho com desenvolvimento desde 2020 (
+              {new Date().getFullYear() - 2020} anos), e gosto mais de
               front-end.
             </p>
             <p className="mt-4 md:w-11/12">
