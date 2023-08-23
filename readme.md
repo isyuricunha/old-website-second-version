@@ -11,7 +11,7 @@
 
 > My personal website.
 
-### 🏠 [Homepage](https://www.yuricunha.xyz/)
+### 🏠 [Homepage](https://www.yuricunha.com/)
 
 ## Install
 
