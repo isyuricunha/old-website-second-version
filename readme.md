@@ -35,7 +35,7 @@ yarn run dev
 
 👤 **Yuri Cunha**
 
-- Website: https://yuricunha.xyz/
+- Website: https://yuricunha.com/
 - Twitter: [@isyuricunha](https://twitter.com/isyuricunha)
 - Github: [@isyuricunha](https://github.com/isyuricunha)
 - LinkedIn: [@isyuricunha](https://linkedin.com/in/isyuricunha)
