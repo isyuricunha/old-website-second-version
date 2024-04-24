@@ -2,8 +2,7 @@
 	"name": "v1",
 	"private": true,
 	"scripts": {
-		"dev": "next dev",
-		"build": "next build && next export",
+		"dev": "yarn dev",
 		"lint": "next lint"
 	},
 	"dependencies": {
