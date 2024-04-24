@@ -13,6 +13,8 @@
 
 ### 🏠 [Homepage](https://www.yuricunha.com/)
 
+This project now works again anda can be deployed to Vercel. (2024)
+
 ## Install
 
 ```sh
