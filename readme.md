@@ -16,7 +16,7 @@
 ## Install
 
 ```sh
-yarn install
+yarn install --ignore-engines # nowadays you need to ignore engines to install the dependencies
 ```
 
 ## Usage
