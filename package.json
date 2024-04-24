@@ -4,8 +4,7 @@
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build && next export",
-		"lint": "next lint",
-		"start": "node server.js"
+		"lint": "next lint"
 	},
 	"dependencies": {
 		"@heroicons/react": "^2.0.12",
