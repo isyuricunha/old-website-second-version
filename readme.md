@@ -22,6 +22,11 @@ yarn install --ignore-engines # nowadays you need to ignore engines to install t
 ## Usage
 
 ```sh
+yarn config set ignore-engines true # ignore engines to run the project
+
+```
+
+```sh
 yarn run start
 ```
 
