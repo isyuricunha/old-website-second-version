@@ -20,7 +20,7 @@ export const CONFIG = {
 			view: "https://github.com/isyuricunha/blog",
 			linkto: "https://www.blog.yuricunha.com/",
 		},
-	] as MAINPROJECTS[],
+	] as unknown as MAINPROJECTS[],
 
 	SIDEPROJECTS: [
 		{
@@ -98,6 +98,7 @@ interface MAINPROJECTS {
 	what: string;
 	img: string;
 	linkto: string;
+	view?: string;
 }
 
 interface SIDEPROJECTS {
@@ -105,6 +106,6 @@ interface SIDEPROJECTS {
 	description: string;
 	img: string;
 	linkto: string;
-	view: string;
+	view?: string;
 	mode: string;
 }
