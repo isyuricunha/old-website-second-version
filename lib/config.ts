@@ -1,15 +1,6 @@
 export const CONFIG = {
 	MAINPROJECTS: [
 		{
-			title: "Dongdedi: Song Dedication",
-			description:
-				"A free music dedication service suitable for a wedding, party or any event. Users can upload their songs and dedicate them to their loved ones. The songs will be played on the event day.",
-			role: "dbA",
-			what: "Here you can send the link for people to dedicate songs to you. And, they can even upload files in mp3!",
-			img: "/projects/songdedi.jpg",
-			linkto: "https://songdedi-admin.herokuapp.com/",
-		},
-		{
 			title: "Alameda Dev",
 			description:
 				"We are a community of developers, designers, and tech enthusiasts. ",
